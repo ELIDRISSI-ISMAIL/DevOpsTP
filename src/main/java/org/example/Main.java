@@ -22,5 +22,7 @@ public class Main {
         Scanner s = new Scanner(System.in);
         String ss = s.nextLine();
         System.out.println("voici le message a afficher" +ss);
+
+        System.out.println("hello back partie dev/testeur, devopsTP");
     }
 }
